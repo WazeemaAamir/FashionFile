@@ -3,8 +3,6 @@
 
 **Dildar.pk** is a modern and responsive e-commerce web application built using **Next.js** and **Tailwind CSS**. It provides a smooth online shopping experience with multiple product categories including **Women's Clothing**, **Men's Clothing**, **Stationary**, and **Watches**.
 
-![Dildar.pk Screenshot](./screenshot.png) <!-- Replace with your image path or GitHub-hosted link -->
-
 ---
 
 ## 🌟 Features
