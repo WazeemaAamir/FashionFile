@@ -44,5 +44,5 @@
 
 ### 1. Clone the repository
 ```bash
-https://github.com/WazeemaAamir/FashionFile
+https://github.com/WazeemaAamir/FashionFile.git
 cd dildar.pk
